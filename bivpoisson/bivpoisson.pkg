@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'bivpoisson': Seemingly unrelated count regression Use bivpoisson With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f bivpoisson.ado
+f bivpoisson.sthlp
