@@ -1,6 +1,8 @@
 # bivpoisson
 Seemingly unrelated count regression Use bivpoisson With STATA 18
 
+https://www.youtube.com/watch?v=5TR_tHg2O0c
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
